@@ -11,7 +11,7 @@
         },
         "CADDYIndexPage": {
             "description": "自定义CADDY部署完成后点击View的显示页面，参考：https://github.com/riverboat123/HyA/blob/master/etc/CADDYIndexPage.md",
-            "value": "https://github.com/StartBootstrap/startbootstrap-new-age/archive/master.zip"
+            "value": "https://github.com/bradtraversy/loruki-website/archive/master.zip"
         },
         "CONFIGCADDY": {
             "description": "自定义网络地址读取配置运行CADDY，不熟悉CADDY配置的请勿修改",
