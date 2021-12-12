@@ -1,5 +1,5 @@
 ##部署
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/Lbingyi/HerokuXray) 
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/riverboat123/HyA) 
 
 <details>
 <summary>可以使用Cloudflare的Workers来中转流量，2配置为：</summary>
